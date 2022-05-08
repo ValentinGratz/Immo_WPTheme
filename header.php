@@ -7,3 +7,4 @@
     <?php wp_head(); ?> <!-- cette fonction permet d'insérer toutes les infos à mettre en en-tête -->
 </head>
 <body>
+    <div class="container">
